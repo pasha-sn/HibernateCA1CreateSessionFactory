@@ -4,6 +4,10 @@ import org.hibernate.Session;
 
 import com.hibernateinfo.util.HibernateUtil;
 
+/**
+ * @author Pasha
+ *
+ */
 public class HibernateCreateSessionFactoryClientTest {
 
 	public static void main(String[] args) 
